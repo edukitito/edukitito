@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eduardo Oliveira</h1>
 <h3 align="center">A Business Information Technology student with a passion for technology</h3>
 
-<p align="left">Hello! I am a young programming enthusiast, 23 years old. My journey began with Python, but the main language I study is Java. I love creating small automation applications and exploring APIs. Additionally, I am seeking knowledge in MongoDB and PostgreSQL</p>
+<p align="left">Hello! I am a young programming enthusiast, 23 years old. My journey began with Python, but the main language I study is Java. I love creating small automation applications and exploring APIs. Additionally, I am seeking knowledge in MongoDB and PostgreSQL.</p>
 
 <div align="center" class="container" style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edukitito&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph" /> 
